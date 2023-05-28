@@ -1,0 +1,80 @@
+.box{
+    width: 60vw;
+    height: 70vh;
+
+padding-left: 20vw;
+padding-right: -20vw;
+padding-top: 5vh;
+border-radius: 10px;
+background-color: #f4f5f9;
+  }
+  .bigbox{
+    width: 60vw;
+    height: 80vh;
+
+padding-left: 20vw;
+padding-right: -20vw;
+padding-top: 5vh;
+border-radius: 10px;
+background-color: #f4f5f9;
+  }
+  .outerbox{
+    margin-top: -10vh;
+    padding-top: 20vh;
+    padding-left: 20vw;
+    width: 100vw;
+    height: 120vh;
+    background: rgb(7, 71, 166);
+  }
+  .flexbox{
+    display: flex;
+    margin-left: -10vw;
+
+  }
+  .inputcolor{
+    color: rgb(84, 81, 81);
+    font-weight: 900;
+  }
+  .leftspace{
+    margin-left: 10vh;
+  }
+  .topspace{
+    margin-top: 3vh;
+  }
+  .bottomspace{
+    margin-top: 1vh;
+  }
+
+  .rightspace{
+    margin-left: -10vh;
+  }
+  .input{
+    height: 5vh;
+    width: 20vw;
+    border-width: 1px;
+    border-color: rgb(168, 166, 166);
+    outline-width: 0;
+    border-style: solid;
+    border-radius: 2px;
+  }
+  .buttons{
+    height: 5vh;
+    width: 15vw;
+    margin-top: 10vh;
+    margin-left: -15vw;
+  }
+  .buttons:hover{
+    background-color:  #ec8c4f;
+     border-width: 1px;
+    border-color: rgb(255, 251, 251);
+    outline-width: 0;
+    border-radius: 4px;
+    color: white;
+  }
+  .toptext{
+    font-size: 15px;
+    font-weight: 1900;
+    margin-left: -13vw;
+    margin-top: -1vh;
+    color:  #f7b085;
+  }
